@@ -1,0 +1,5 @@
+{
+  "name": "Math Loop Cards",
+  "description": "A digital version of the classic 'I Have, Who Has' multiplication loop game. Arrange the cards so the bottom number matches the math problem on the next card. Features AI-generated levels.",
+  "requestFramePermissions": []
+}
